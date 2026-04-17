@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o João Victor</h1>
+<h1 align="center"> Olá, eu sou o João Victor</h1>
 
 <h3 align="center">💻 Desenvolvedor Frontend | Criando experiências modernas e intuitivas</h3>
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 ✨ Transformo ideias em interfaces modernas e funcionais  
 📚 Sempre aprendendo novas tecnologias e boas práticas  
@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,mysql,git,figma" />
@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <p align="center">
   <img 
