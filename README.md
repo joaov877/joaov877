@@ -1,24 +1,34 @@
-<h1 align="center">João Victor</h1>
+<h1 align="center">👋 Olá, eu sou o João Victor</h1>
 
-<p align="center">
-  Desenvolvedor Frontend focado em interfaces modernas e experiências intuitivas
-</p>
+<h3 align="center">💻 Desenvolvedor Frontend | Criando experiências modernas e intuitivas</h3>
 
 <p align="center">
   <a href="https://instagram.com/victo_lmoraes" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## Sobre
+## 🚀 Sobre mim
 
-Desenvolvedor com foco em criar interfaces funcionais, limpas e eficientes. Busco evoluir constantemente em tecnologias modernas e participar de projetos que gerem impacto real.
+✨ Transformo ideias em interfaces modernas e funcionais  
+📚 Sempre aprendendo novas tecnologias e boas práticas  
+🎯 Focado em desenvolvimento Frontend e experiência do usuário  
+🌐 Apaixonado por criar soluções que conectam pessoas  
 
 ---
 
-## Tecnologias
+## 🧠 Atualmente estudando
+
+- ⚡ JavaScript avançado
+- ⚛️ Frameworks modernos (React futuramente)
+- 🗄️ Integração com APIs e banco de dados
+- 🎨 UI/UX com Figma
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,mysql,git,figma" />
@@ -26,31 +36,37 @@ Desenvolvedor com foco em criar interfaces funcionais, limpas e eficientes. Busc
 
 ---
 
-## Estatísticas
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img 
-    height="170em" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true"
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
   <img 
-    height="170em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true"
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight"
   />
 </p>
 
 ---
 
-## Atividade
+## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## Objetivo
+##  Objetivo
 
-Crescer como desenvolvedor frontend, aprimorar habilidades técnicas e contribuir com soluções digitais bem estruturadas e escaláveis.
+Crescer como desenvolvedor, participar de projetos reais e contribuir com soluções que gerem impacto positivo através da tecnologia.
+
+---
+
+## 
+
+> “A tecnologia move o mundo, mas são as pessoas que dão sentido a ela.”
 
 ---
